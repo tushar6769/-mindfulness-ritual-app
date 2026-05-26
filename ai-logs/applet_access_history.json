@@ -1,0 +1,26 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-05-26T19:23:33.706825Z",
+    "firstAccessTime": "2026-05-26T19:14:25.785922Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "4ebaf1ae-660a-4a70-9288-721d6a84fb5d"
+      }
+    },
+    "name": "I Am — Daily Affirmations \u0026 Motivation",
+    "description": "An ultra-premium daily affirmations \u0026 motivation app featuring immersive dark aesthetics, personalized category selections, interactive swipe cards, streak calendar visualization, and progress milestones."
+  }, {
+    "lastAccessTime": "2026-05-19T17:06:06.592121Z",
+    "firstAccessTime": "2026-05-14T20:30:12.009237Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "119f1116-6062-4fb2-b5f9-3025c163be6d"
+      }
+    },
+    "name": "Stacking Card Portfolio",
+    "description": "A sleek portfolio featuring a stacking cards scroll effect and modern design.",
+    "runtimeType": 1
+  }]
+}
