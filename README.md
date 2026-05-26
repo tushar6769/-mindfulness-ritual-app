@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# I Am — Daily Affirmations & Motivation
 
-# Run and deploy your AI Studio app
+A premium Mindfulness Ritual web application designed to help users establish a path of alignment through daily affirmations, motivation cards, and dynamic user personalization.
 
-This contains everything you need to run your app locally.
+## Features
+* **Personalized Greeting:** Dynamically captures and displays the user's name for a tailored ritual setup.
+* **Premium UI/UX:** Clean, atmospheric dark-mode theme featuring sharp typography and smooth layouts.
+* **Mindfulness Tracking:** Designed to help keep users aligned with daily Connection Objectives and mental rituals.
 
-View your app in AI Studio: https://ai.studio/apps/4ebaf1ae-660a-4a70-9288-721d6a84fb5d
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Built With
+* Google AI Studio (Gemini 1.5 Flash)
+* React / TypeScript / Vite / Tailwind CSS
